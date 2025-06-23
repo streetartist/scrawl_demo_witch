@@ -216,5 +216,4 @@ class MyScene(Scene):
 
 # 运行游戏
 game.set_scene(MyScene())
-time.sleep(5)
 game.run(fps=60)
